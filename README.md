@@ -35,3 +35,4 @@ We can look typographies of conveying some kind of mood, just as the colors:
 3) <b>Script</b>-Personal. Creative. Elegant.
 4) <b>Display</b>-Friendly. Loud. Amusing.
 5) <b>Modern</b>-Stylish. Chic. Smart.
+6) etc.
