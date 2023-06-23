@@ -28,3 +28,4 @@ Check this site for ready color combinations:
 ---> https://colorhunt.co
 
 # Typography
+Two large families that we need to remember: <b>Serif</b>
