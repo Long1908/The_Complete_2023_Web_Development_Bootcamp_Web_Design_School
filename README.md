@@ -28,4 +28,10 @@ Check this site for ready color combinations:
 ---> https://colorhunt.co
 
 # Typography
-Two large families that we need to remember: <b>Serif</b>
+Two large families that we need to remember: <b>Serif</b> and <b>Sans-Serif</b>.
+We can look typographies of conveying some kind of mood, just as the colors:
+1) <b>Serif</b>-Traditional. Bold. Respectable.
+2) <b>Sans-Serif</b>-Sensible. Simple. Straightforward.
+3) <b>Script</b>-Personal. Creative. Elegant.
+4) <b>Display</b>-Friendly. Loud. Amusing.
+5) <b>Modern</b>-Stylish. Chic. Smart.
