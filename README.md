@@ -13,5 +13,5 @@
 5) Purple: Royalty. Wealth. Femininity <br>
 
 -Combining colors
-1) Analogous colors: Picking colors(2 or 3) next to each other. Good for creating the logo.
+1) Analogous colors: Picking colors(2 or 3) next to each other. Good for creating the logo, background of the websites and navigation bar.
 ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School/assets/56315912/1d5701d7-0af1-4ebf-b7de-a8d2f7dcd459)
