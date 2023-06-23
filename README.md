@@ -26,3 +26,5 @@ Check thise site to try different color combinations:
 
 Check this site for ready color combinations:
 ---> https://colorhunt.co
+
+# Typography
