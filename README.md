@@ -19,3 +19,10 @@
 ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School/assets/56315912/4abf9da9-5eb7-43c7-be6c-409df9e329db)
 
 !NOTE: DO NOT USE CLASHING COLOURS FOR TEXTS.
+3) There are a lot of other color theories that can be checked and use.
+
+Check thise site to try different color combinations:
+---> https://color.adobe.com/create/color-wheel 
+
+Check this site for ready color combinations:
+---> https://colorhunt.co
