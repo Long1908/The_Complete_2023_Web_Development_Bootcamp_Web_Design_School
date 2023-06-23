@@ -17,3 +17,4 @@
 ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School/assets/56315912/1d5701d7-0af1-4ebf-b7de-a8d2f7dcd459)
 2) Complementary colours: Picking two opposite colours from the colour wheel. Good for making things pop-up.
 ![image](https://github.com/Long1908/The_Complete_2023_Web_Development_Bootcamp_Web_Design_School/assets/56315912/4abf9da9-5eb7-43c7-be6c-409df9e329db)
+!NOTE: DO NOT USE CLASHING COLOURS FOR TEXTS.
