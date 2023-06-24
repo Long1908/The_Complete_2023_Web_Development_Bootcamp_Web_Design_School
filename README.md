@@ -38,4 +38,4 @@ We can look typographies of conveying some kind of mood, just as the colors:
 6) etc.
 
 <b>!NOTE</b>: Using lots of fonts can make for a design that is cluttered, overcomplicated and just not very nice. <br>
-              Using just a small selection, you can keep your design cleaner, cleared and just much easier to digest.
+              Using just a small selection, you can keep your design cleaner, cleared and just much easier to digest.а
