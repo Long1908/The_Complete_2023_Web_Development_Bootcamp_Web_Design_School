@@ -48,3 +48,9 @@ the usre to look at. We can do that with:
 3) Allignment-reduce the number/allignments to make the site more professional and clean.
 4) Whitespace-Don't make everything tightly cramped together. Space them well and make it clean.
 5) Audience-Know who are you targeting and make use of colour, fonts and etc for the the people you are searching to be your client.
+
+# User_Experience
+Let the user use your website without complexity and easily.
+1) Simplicity: Don't clutter your website with design.
+2) Consistency: Functionality of your website should be consistent. Don't change design or how the different elements work.
+3) Reading Paterns: THE F PATERN. 
