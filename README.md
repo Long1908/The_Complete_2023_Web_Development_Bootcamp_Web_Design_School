@@ -55,4 +55,3 @@ Let the user use your website without complexity and easily.
 2) Consistency: Functionality of your website should be consistent. Don't change design or how the different elements work.
 3) Reading Paterns: THE F PATERN, THE Z PATERN-natural ways the person looks at a webpage
 4) All platform design: Need to be good design for all kinds of medias and devices.
-5) Dark patterns: DON'T LIE TO THE USER. DON'T MAKE THE PERFORM AN ACTION THEY DDN'T WANT. 
