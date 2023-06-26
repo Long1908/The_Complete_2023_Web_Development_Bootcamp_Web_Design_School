@@ -39,3 +39,10 @@ We can look typographies of conveying some kind of mood, just as the colors:
 
 <b>!NOTE</b>: Using lots of fonts can make for a design that is cluttered, overcomplicated and just not very nice. <br>
               Using just a small selection, you can keep your design cleaner, cleared and just much easier to digest.
+
+# User_Interface
+Establishing Hierarchy so that we can pull attention from our customers to most important thing or the thing we want 
+the usre to look at. We can do that with:
+1) Colors-using poping off and more vivid colors on contrast with the background can pull attention to the user
+2) Layout-Block of text shouldn't be too long and tedious or too short and too choppy. Good layout can make the site more easy comprihansable to the user.
+3) Allignment-reduce the number/allignments to make the site more professional and clean.
