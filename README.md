@@ -46,3 +46,5 @@ the usre to look at. We can do that with:
 1) Colors-using poping off and more vivid colors on contrast with the background can pull attention to the user
 2) Layout-Block of text shouldn't be too long and tedious or too short and too choppy. Good layout can make the site more easy comprihansable to the user.
 3) Allignment-reduce the number/allignments to make the site more professional and clean.
+4) Whitespace-Don't make everything tightly cramped together. Space them well and make it clean.
+5) Audience-Know who are you targeting and make use of colour, fonts and etc for the the people you are searching to be your client.
