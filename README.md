@@ -53,4 +53,5 @@ the usre to look at. We can do that with:
 Let the user use your website without complexity and easily.
 1) Simplicity: Don't clutter your website with design.
 2) Consistency: Functionality of your website should be consistent. Don't change design or how the different elements work.
-3) Reading Paterns: THE F PATERN. 
+3) Reading Paterns: THE F PATERN, THE Z PATERN-natural ways the person looks at a webpage
+4) 
