@@ -1,4 +1,4 @@
-# The_Complete_2023_Web_Development_Bootcamp_Web_Design_Schoolasdasds
+# The_Complete_2023_Web_Development_Bootcamp_Web_Design_School
 # Web_Design_Principles
 1) Colour Theory<br>
 2) Typography<br>
